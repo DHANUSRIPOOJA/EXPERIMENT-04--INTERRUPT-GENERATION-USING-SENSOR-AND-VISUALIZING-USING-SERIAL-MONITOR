@@ -1,10 +1,10 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 
+###  DATE: 16.05.2026
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: K DHNAUSRI POOJA
+###  ROLL NO : 212224040068
+###  DEPARTMENT: BE CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
@@ -130,10 +130,15 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
 
 ## Output screen shots of serial port utility   :
  
- 
+ <img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/bec1c66d-db93-4057-937f-1d3b3c58a539" />
+
  ## Circuit board :
  
- 
+ <img width="1201" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d6a1608-7371-4f5d-8b24-8c303760a944" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b9f2903-78a5-47b2-804e-fdf8e2eb245f" />
+
+
  
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
